@@ -1,0 +1,21 @@
+return {
+	Players = game:GetService("Players"),
+	Lighting = game:GetService("Lighting"),
+	ReplicatedFirst = game:GetService("ReplicatedFirst"),
+	ReplicatedStorage = game:GetService("ReplicatedStorage"),
+	ServerScriptService = game:GetService("ServerScriptService"),
+	StarterGui = game:GetService("StarterGui"),
+	StarterPack = game:GetService("StarterPack"),
+	AssetService = game:GetService("AssetService"),
+	BadgeService = game:GetService("BadgeService"),
+	Debris = game:GetService("Debris"),
+	InsertService = game:GetService("InsertService"),
+	MarketplaceService = game:GetService("MarketplaceService"),
+	GameStats = game:GetService("Stats"),
+	RunService = game:GetService("RunService"),
+	SoundService = game:GetService("SoundService"),
+	TeleportService = game:GetService("TeleportService"),
+	TweenService = game:GetService("TweenService"),
+	UserInputService = game:GetService("UserInputService"),
+	HapticService = game:GetService("HapticService")
+}
